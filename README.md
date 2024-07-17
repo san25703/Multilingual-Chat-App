@@ -199,3 +199,4 @@ export default Chat;
 
 - [LibreTranslate](https://libretranslate.com/) for providing the translation API.
 - The MERN stack community for providing excellent resources and support.
+- [Roadside Coder](https://github.com/piyush-eon)
