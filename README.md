@@ -2,6 +2,10 @@
 
 This project is a chat application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) with an integrated real-time translation feature using the LibreTranslate API.
 
+### Usage
+
+The MERN Chat App allows users to register and log in to engage in real-time messaging. Users can select their preferred language from a dropdown menu, enabling messages to be translated automatically into the chosen language. This feature facilitates seamless communication between users speaking different languages, making the app a versatile tool for multilingual chat environments.
+
 ## Features
 
 - Real-time messaging
